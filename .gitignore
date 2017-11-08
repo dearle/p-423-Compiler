@@ -9,3 +9,4 @@ t.s
 *_flymake.hs
 .virthualenv
 dist
+.DS_Store
