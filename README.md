@@ -33,4 +33,4 @@ Constant  ::= fixnum | () | #t | #f
 Var       ::= an arbitrary symbol
 ```
 
-For more information, please refer to the [course page](http://homes.soic.indiana.edu/classes/spring2015/csci/p423-rrnewton/) of CSCI-P 423 at Indiana University. Unless otherwise specified, I only own the files under [`Compiler`](https://github.com/dearle/p423-Compiler/tree/master/Compiler).
+For more information, please refer to the [course page](http://homes.soic.indiana.edu/classes/spring2015/csci/p423-rrnewton/) of CSCI-P 423 at Indiana University. Unless otherwise specified, I only own the files under [`Compiler`](https://github.com/dearle/p-423-Compiler/tree/master/Compiler).
